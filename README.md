@@ -31,10 +31,10 @@ You won $50.
 You won on lines: 2
 ```[cite: 1]
 
-## 🔧 Future Improvements
+🔧 Future Improvements
 - Add more complex winning patterns (diagonals).[cite: 1]
 - Implement a graphical user interface (GUI) using Tkinter or Pygame.[cite: 1]
 - Add "Multiplier" symbols or "Free Spin" bonuses.[cite: 1]
 
-## 📄 License
+📄 License
 This project is open-source and available under the [MIT License](LICENSE).[cite: 1]
