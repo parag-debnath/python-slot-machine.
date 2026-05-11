@@ -29,7 +29,6 @@ B | B | B
 C | A | C
 You won $50.
 You won on lines: 2
-```[cite: 1]
 
 🔧 Future Improvements
 - Add more complex winning patterns (diagonals).[cite: 1]
@@ -38,3 +37,4 @@ You won on lines: 2
 
 📄 License
 This project is open-source and available under the [MIT License](LICENSE).[cite: 1]
+```
